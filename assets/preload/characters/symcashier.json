@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Symple Left Cashier",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-10
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Symple Down Cashier",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Symple Up Cashier",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Symple Right Cashier",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Symple Idle Cashier",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/symcashier",
+	"position": [
+		-280,
+		-570
+	],
+	"healthicon": "sym",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		0,
+		0
+	],
+	"camera_position": [
+		290,
+		780
+	],
+	"sing_duration": 6.1,
+	"scale": 0.25
+}

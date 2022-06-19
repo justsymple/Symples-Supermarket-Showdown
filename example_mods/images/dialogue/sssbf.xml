@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sssbf.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SSS BF ANGRY0000" x="805" y="0" width="403" height="480" frameX="0" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY0001" x="805" y="0" width="403" height="480" frameX="0" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY LOOP0000" x="0" y="0" width="402" height="484" frameX="-4" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY LOOP0001" x="0" y="0" width="402" height="484" frameX="-4" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY LOOP0002" x="402" y="0" width="403" height="479" frameX="0" frameY="-5" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY LOOP0003" x="402" y="0" width="403" height="479" frameX="0" frameY="-5" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY LOOP0004" x="805" y="0" width="403" height="480" frameX="0" frameY="-4" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF ANGRY LOOP0005" x="805" y="0" width="403" height="480" frameX="0" frameY="-4" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED0000" x="0" y="484" width="403" height="480" frameX="0" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED0001" x="0" y="484" width="403" height="480" frameX="0" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED LOOP0000" x="1208" y="0" width="402" height="484" frameX="-4" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED LOOP0001" x="1208" y="0" width="402" height="484" frameX="-4" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED LOOP0002" x="1610" y="0" width="403" height="479" frameX="0" frameY="-5" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED LOOP0003" x="1610" y="0" width="403" height="479" frameX="0" frameY="-5" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED LOOP0004" x="0" y="484" width="403" height="480" frameX="0" frameY="-4" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF CONFUSED LOOP0005" x="0" y="484" width="403" height="480" frameX="0" frameY="-4" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF MONEY0000" x="403" y="484" width="421" height="480"/>
+	<SubTexture name="SSS BF MONEY0001" x="403" y="484" width="421" height="480"/>
+	<SubTexture name="SSS BF MONEY LOOP0000" x="824" y="484" width="433" height="484"/>
+	<SubTexture name="SSS BF MONEY LOOP0001" x="824" y="484" width="433" height="484"/>
+	<SubTexture name="SSS BF MONEY LOOP0002" x="1257" y="484" width="423" height="479" frameX="-7" frameY="-5" frameWidth="433" frameHeight="484"/>
+	<SubTexture name="SSS BF MONEY LOOP0003" x="1257" y="484" width="423" height="479" frameX="-7" frameY="-5" frameWidth="433" frameHeight="484"/>
+	<SubTexture name="SSS BF MONEY LOOP0004" x="0" y="968" width="421" height="480" frameX="-9" frameY="-4" frameWidth="433" frameHeight="484"/>
+	<SubTexture name="SSS BF MONEY LOOP0005" x="0" y="968" width="421" height="480" frameX="-9" frameY="-4" frameWidth="433" frameHeight="484"/>
+	<SubTexture name="SSS BF REGULAR0000" x="421" y="968" width="403" height="480"/>
+	<SubTexture name="SSS BF REGULAR0001" x="421" y="968" width="403" height="480"/>
+	<SubTexture name="SSS BF REGULAR LOOP0000" x="824" y="968" width="402" height="484" frameX="-4" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF REGULAR LOOP0001" x="824" y="968" width="402" height="484" frameX="-4" frameY="0" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF REGULAR LOOP0002" x="1226" y="968" width="403" height="479" frameX="0" frameY="-5" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF REGULAR LOOP0003" x="1226" y="968" width="403" height="479" frameX="0" frameY="-5" frameWidth="406" frameHeight="484"/>
+	<SubTexture name="SSS BF REGULAR LOOP0004" x="421" y="968" width="403" height="480" frameX="0" frameY="-4" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="SSS BF REGULAR LOOP0005" x="421" y="968" width="403" height="480" frameX="0" frameY="-4" frameWidth="403" frameHeight="480"/>
+</TextureAtlas>

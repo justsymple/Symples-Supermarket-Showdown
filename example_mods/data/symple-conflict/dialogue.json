@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, that will be five dollars and 99 cents."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "pay",
+			"text": "Beep bop skidip."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That's not real money, I hope you know that."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BEEP?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "U got the whole squad laughing bro"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Beep..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Okay then-"
+		}
+	]
+}

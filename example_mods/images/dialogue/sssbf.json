@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		10
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SSS BF REGULAR LOOP",
+			"idle_name": "SSS BF REGULAR"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SSS BF CONFUSED",
+			"loop_name": "SSS BF CONFUSED LOOP"
+		},
+		{
+			"loop_name": "SSS BF ANGRY LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SSS BF ANGRY",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "SSS BF MONEY LOOP",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"idle_name": "SSS BF MONEY",
+			"anim": "pay",
+			"loop_offsets": [
+				20,
+				0
+			]
+		}
+	],
+	"image": "sssbf"
+}

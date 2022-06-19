@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sym.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SYM CONFUSED0000" x="599" y="0" width="311" height="551"/>
+	<SubTexture name="SYM CONFUSED0001" x="599" y="0" width="311" height="551"/>
+	<SubTexture name="SYM CONFUSED LOOP0000" x="0" y="0" width="296" height="543" frameX="-14" frameY="0" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM CONFUSED LOOP0001" x="0" y="0" width="296" height="543" frameX="-14" frameY="0" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM CONFUSED LOOP0002" x="296" y="0" width="303" height="547" frameX="-8" frameY="-2" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM CONFUSED LOOP0003" x="296" y="0" width="303" height="547" frameX="-8" frameY="-2" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM CONFUSED LOOP0004" x="599" y="0" width="311" height="551"/>
+	<SubTexture name="SYM CONFUSED LOOP0005" x="599" y="0" width="311" height="551"/>
+	<SubTexture name="SYM LAUGH0000" x="1509" y="0" width="311" height="551"/>
+	<SubTexture name="SYM LAUGH0001" x="1509" y="0" width="311" height="551"/>
+	<SubTexture name="SYM LAUGH LOOP0000" x="910" y="0" width="296" height="543" frameX="-14" frameY="0" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM LAUGH LOOP0001" x="910" y="0" width="296" height="543" frameX="-14" frameY="0" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM LAUGH LOOP0002" x="1206" y="0" width="303" height="547" frameX="-8" frameY="-2" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM LAUGH LOOP0003" x="1206" y="0" width="303" height="547" frameX="-8" frameY="-2" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM LAUGH LOOP0004" x="1509" y="0" width="311" height="551"/>
+	<SubTexture name="SYM LAUGH LOOP0005" x="1509" y="0" width="311" height="551"/>
+	<SubTexture name="SYM REGULAR0000" x="599" y="551" width="311" height="551"/>
+	<SubTexture name="SYM REGULAR0001" x="599" y="551" width="311" height="551"/>
+	<SubTexture name="SYM REGULAR LOOP0000" x="0" y="551" width="296" height="543" frameX="-14" frameY="0" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM REGULAR LOOP0001" x="0" y="551" width="296" height="543" frameX="-14" frameY="0" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM REGULAR LOOP0002" x="296" y="551" width="303" height="547" frameX="-8" frameY="-2" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM REGULAR LOOP0003" x="296" y="551" width="303" height="547" frameX="-8" frameY="-2" frameWidth="311" frameHeight="551"/>
+	<SubTexture name="SYM REGULAR LOOP0004" x="599" y="551" width="311" height="551"/>
+	<SubTexture name="SYM REGULAR LOOP0005" x="599" y="551" width="311" height="551"/>
+</TextureAtlas>

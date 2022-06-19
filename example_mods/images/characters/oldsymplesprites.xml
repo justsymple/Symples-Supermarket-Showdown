@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="symcashier.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symple Down Cashier0000" x="0" y="0" width="1360" height="2042" frameX="0" frameY="-11" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0001" x="0" y="0" width="1360" height="2042" frameX="0" frameY="-11" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0002" x="0" y="0" width="1360" height="2042" frameX="0" frameY="-11" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0003" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0004" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0005" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0006" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0007" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0008" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0009" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0010" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0011" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0012" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0013" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Down Cashier0014" x="1360" y="0" width="1345" height="2053" frameX="0" frameY="0" frameWidth="1360" frameHeight="2053"/>
+	<SubTexture name="Symple Idle Cashier0000" x="2705" y="0" width="1194" height="2062" frameX="0" frameY="-31" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0001" x="2705" y="0" width="1194" height="2062" frameX="0" frameY="-31" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0002" x="3899" y="0" width="1169" height="2069" frameX="-4" frameY="-24" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0003" x="3899" y="0" width="1169" height="2069" frameX="-4" frameY="-24" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0004" x="5068" y="0" width="1154" height="2076" frameX="-7" frameY="-17" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0005" x="5068" y="0" width="1154" height="2076" frameX="-7" frameY="-17" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0006" x="6222" y="0" width="1148" height="2087" frameX="-1" frameY="-6" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0007" x="6222" y="0" width="1148" height="2087" frameX="-1" frameY="-6" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0008" x="0" y="2087" width="1148" height="2093" frameX="-1" frameY="0" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0009" x="0" y="2087" width="1148" height="2093" frameX="-1" frameY="0" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0010" x="0" y="2087" width="1148" height="2093" frameX="-1" frameY="0" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0011" x="0" y="2087" width="1148" height="2093" frameX="-1" frameY="0" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0012" x="0" y="2087" width="1148" height="2093" frameX="-1" frameY="0" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Idle Cashier0013" x="0" y="2087" width="1148" height="2093" frameX="-1" frameY="0" frameWidth="1194" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0000" x="1148" y="2087" width="1167" height="2093"/>
+	<SubTexture name="Symple Left Cashier0001" x="1148" y="2087" width="1167" height="2093"/>
+	<SubTexture name="Symple Left Cashier0002" x="1148" y="2087" width="1167" height="2093"/>
+	<SubTexture name="Symple Left Cashier0003" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0004" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0005" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0006" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0007" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0008" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0009" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0010" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0011" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0012" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0013" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Left Cashier0014" x="2315" y="2087" width="1140" height="2093" frameX="-27" frameY="0" frameWidth="1167" frameHeight="2093"/>
+	<SubTexture name="Symple Right Cashier0000" x="3455" y="2087" width="1053" height="2093" frameX="-22" frameY="0" frameWidth="1075" frameHeight="2093"/>
+	<SubTexture name="Symple Right Cashier0001" x="3455" y="2087" width="1053" height="2093" frameX="-22" frameY="0" frameWidth="1075" frameHeight="2093"/>
+	<SubTexture name="Symple Right Cashier0002" x="3455" y="2087" width="1053" height="2093" frameX="-22" frameY="0" frameWidth="1075" frameHeight="2093"/>
+	<SubTexture name="Symple Right Cashier0003" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0004" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0005" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0006" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0007" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0008" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0009" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0010" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0011" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0012" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0013" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Right Cashier0014" x="4508" y="2087" width="1075" height="2093"/>
+	<SubTexture name="Symple Up Cashier0000" x="5583" y="2087" width="1142" height="2092" frameX="-4" frameY="0" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0001" x="5583" y="2087" width="1142" height="2092" frameX="-4" frameY="0" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0002" x="5583" y="2087" width="1142" height="2092" frameX="-4" frameY="0" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0003" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0004" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0005" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0006" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0007" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0008" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0009" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0010" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0011" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0012" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0013" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+	<SubTexture name="Symple Up Cashier0014" x="6725" y="2087" width="1169" height="2090" frameX="0" frameY="-2" frameWidth="1169" frameHeight="2092"/>
+</TextureAtlas>

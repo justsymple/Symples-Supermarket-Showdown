@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So are you gonna pay me real money this time?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "pay",
+			"text": "Bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop skidoop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh okay..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's not working."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sssbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?! Bop skidoop."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sym",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh*"
+		}
+	]
+}

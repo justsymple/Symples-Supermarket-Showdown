@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Symple Conflict",
+			"symple",
+			[
+				186,
+				0,
+				0
+			]
+		],
+		[
+			"Not Working",
+			"symple",
+			[
+				186,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"symcashier",
+		"bf",
+		"gf"
+	],
+	"storyName": "Supermarket Showdown",
+	"weekName": "Supermarket Showdown",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

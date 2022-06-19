@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		-20
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SYM REGULAR LOOP",
+			"idle_name": "SYM REGULAR"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SYM CONFUSED",
+			"loop_name": "SYM CONFUSED LOOP"
+		},
+		{
+			"loop_name": "SYM LAUGH LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SYM LAUGH",
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "sym"
+}
